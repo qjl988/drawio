@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T04:07:02.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="j3NBkhhlY1MMa0fMBfbg" version="24.4.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-28T04:07:24.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="v93tHEk5bxv7LaDctQYT" version="24.4.9" type="github" pages="4">
   <diagram name="牙齿数据集格式" id="l605pMVOLH8C5ocWz7VU">
     <mxGraphModel dx="1221" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N7FyfL_veEPm1FCrliVx" name="混合架构">
-    <mxGraphModel dx="698" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,16 +165,16 @@
           <mxGeometry x="1100" y="1835" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MQ6ut81YJBfeE5ICHlMk-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="1680" width="40" height="10" as="geometry" />
+          <mxGeometry x="1240" y="1680" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="MQ6ut81YJBfeE5ICHlMk-34" value="卷积神经网络" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="1680" width="80" height="10" as="geometry" />
+          <mxGeometry x="1280" y="1680" width="80" height="10" as="geometry" />
         </mxCell>
         <mxCell id="MQ6ut81YJBfeE5ICHlMk-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="1680" width="40" height="10" as="geometry" />
+          <mxGeometry x="1430" y="1680" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="MQ6ut81YJBfeE5ICHlMk-36" value="Transformer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="1680" width="70" height="10" as="geometry" />
+          <mxGeometry x="1480" y="1680" width="70" height="10" as="geometry" />
         </mxCell>
         <mxCell id="MQ6ut81YJBfeE5ICHlMk-37" value="（a）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1180" y="1910" width="40" height="10" as="geometry" />
