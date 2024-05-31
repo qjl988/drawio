@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-03-14T10:11:22.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.4.0 Chrome/112.0.5615.204 Electron/24.5.1 Safari/537.36" etag="y_JOmXbwi6xajWswvX7L" version="21.4.0" type="device" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-31T09:50:36.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="VGyzeQEw6sV3l13xXWE5" version="24.4.10" type="github" pages="3">
   <diagram id="9kUjLdXwX5VqoD8rsrzN" name="编码器">
     <mxGraphModel dx="973" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
       <root>
@@ -154,7 +154,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nC-am8VOP0rULaIA-BoG" name="vit">
-    <mxGraphModel dx="973" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -441,8 +441,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U2-DMZXMSWRxi-1_azWY-1" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Nx&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;strokeWidth=0.5;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="U2-DMZXMSWRxi-1_azWY-1" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;N×&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;strokeWidth=0.5;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="460" y="560" width="10" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="BZzDYX-AZjuan9Ud9RMN-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;(a)Transformer Encoder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="484.25" y="770" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BZzDYX-AZjuan9Ud9RMN-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;(b)Vision Transformer (ViT)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="815" y="770" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
