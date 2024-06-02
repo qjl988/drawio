@@ -1,49 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T05:50:16.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="hXrnl4OTQbatvPGKEPug" version="24.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-02T11:44:48.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="PAjXi24bRzXRknAt2Uf2" version="24.4.13" type="github" pages="2">
   <diagram name="系统架构" id="LkHW-83_zddhqzEgzAWe">
-    <mxGraphModel dx="698" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="482" dy="255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YGHuRv0u9WsSLWJvh3on-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;startArrow=blockThin;startFill=1;" edge="1" parent="1">
+        <mxCell id="YGHuRv0u9WsSLWJvh3on-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;startArrow=blockThin;startFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1480" y="320" as="sourcePoint" />
             <mxPoint x="1480" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YGHuRv0u9WsSLWJvh3on-9" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;数据层&lt;/span&gt;&lt;div style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;（牙齿病灶图像）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="YGHuRv0u9WsSLWJvh3on-9" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;数据层&lt;/span&gt;&lt;div style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;（牙齿病灶图像）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1440" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YGHuRv0u9WsSLWJvh3on-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;endArrow=blockThin;endFill=1;" edge="1" parent="1">
+        <mxCell id="YGHuRv0u9WsSLWJvh3on-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;endArrow=blockThin;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1480" y="240" as="sourcePoint" />
             <mxPoint x="1480" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YGHuRv0u9WsSLWJvh3on-10" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;逻辑层&lt;/span&gt;&lt;div style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;（功能：登录、注册、管理、分割算法、）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="YGHuRv0u9WsSLWJvh3on-10" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;逻辑层&lt;/span&gt;&lt;div style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;（功能：登录、注册、算法调用等）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1440" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YGHuRv0u9WsSLWJvh3on-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;表示层&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;（结果展示、用户展示）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="YGHuRv0u9WsSLWJvh3on-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;表示层&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;（结果展示、用户展示）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1440" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YGHuRv0u9WsSLWJvh3on-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;endSize=7;startSize=6;targetPerimeterSpacing=0;width=6;" edge="1" parent="1">
+        <mxCell id="YGHuRv0u9WsSLWJvh3on-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;endSize=7;startSize=6;targetPerimeterSpacing=0;width=6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1420" y="360" as="sourcePoint" />
             <mxPoint x="1420" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YGHuRv0u9WsSLWJvh3on-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;endArrow=blockThin;endFill=1;" edge="1" parent="1">
+        <mxCell id="YGHuRv0u9WsSLWJvh3on-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;endArrow=blockThin;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1520" y="240" as="sourcePoint" />
             <mxPoint x="1520" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YGHuRv0u9WsSLWJvh3on-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;startArrow=blockThin;startFill=1;" edge="1" parent="1">
+        <mxCell id="YGHuRv0u9WsSLWJvh3on-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;startArrow=blockThin;startFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1520" y="320" as="sourcePoint" />
             <mxPoint x="1520" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YGHuRv0u9WsSLWJvh3on-23" value="智能口腔诊断系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="YGHuRv0u9WsSLWJvh3on-23" value="智能口腔诊断系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="1570" y="160" width="20" height="200" as="geometry" />
         </mxCell>
       </root>
