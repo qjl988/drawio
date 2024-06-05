@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T14:24:07.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="WlDsEgOFo7XqO8wdXS7f" version="24.4.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-05T14:44:42.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="hKzSxfeLJgy3x_tKajKZ" version="24.4.13" type="github" pages="4">
   <diagram name="系统架构" id="LkHW-83_zddhqzEgzAWe">
     <mxGraphModel dx="576" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -225,7 +225,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="YIF18xCXREtSUEXABAGM" name="流程图1">
+  <diagram id="YIF18xCXREtSUEXABAGM" name="病灶分割">
     <mxGraphModel dx="1012" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
